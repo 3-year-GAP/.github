@@ -67,34 +67,22 @@
 ## 👨‍💻 People of 3-year GAP
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="150px">
-      <a href="https://github.com/팀원1아이디">
-        <img src="https://github.com/팀원1아이디.png" width="100px" style="border-radius:50%"/>
-      </a>
-      <br/>
-      <b>최원찬</b>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/팀원2아이디">
-        <img src="https://github.com/팀원2아이디.png" width="100px" style="border-radius:50%"/>
-      </a>
-      <br/>
-      <b>양유진</b>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/팀원3아이디">
-        <img src="https://github.com/팀원3아이디.png" width="100px" style="border-radius:50%"/>
-      </a>
-      <br/>
-      <b>한종현</b>
-    </td>
-  <tr>
-    <td align="center">Backend / Leader</td>
-    <td align="center">Frontend</td>
-    <td align="center">AI / Data</td>
-  </tr>
+   <table style="width: 100%;">
+<tr>
+    <td align="center" style="width: 49%;"><a href="https://github.com/ryalu"><img src="https://avatars.githubusercontent.com/u/116710860?v=4" width="130px;" alt="https://github.com/ryalu"></a></td>
+    <td align="center" style="width: 49%;"><a href="https://github.com/PearlLeeCode"><img src="https://avatars.githubusercontent.com/u/188530354?v=4" width="130px;" alt="https://github.com/choiwonchanny"></a></td>
+    <td align="center" style="width: 49%;"><a href="https://github.com/mingi123"><img src="https://avatars.githubusercontent.com/u/28223785?v=4" width="130px;" alt="https://github.com/smilish67"></a></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/ryalu"><b> 양유진 </b></a></td>
+    <td align="center"><a href="https://github.com/choiwonchanny"><b> 최원찬 </b></a></td>
+    <td align="center"><a href="https://github.com/smilish67"><b> 한종현 </b></a></td>
+</tr>
+<tr>
+  <td align="center">AI 모델링</td>  
+  <td align="center">사업 총괄</td>
+  <td align="center">서비스 개발</td>
+</tr>
 </table>
 </div>
 
