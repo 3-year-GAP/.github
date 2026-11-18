@@ -70,8 +70,8 @@
    <table style="width: 100%;">
 <tr>
     <td align="center" style="width: 49%;"><a href="https://github.com/ryalu"><img src="https://avatars.githubusercontent.com/u/116710860?v=4" width="130px;" alt="https://github.com/ryalu"></a></td>
-    <td align="center" style="width: 49%;"><a href="https://github.com/PearlLeeCode"><img src="https://avatars.githubusercontent.com/u/188530354?v=4" width="130px;" alt="https://github.com/choiwonchanny"></a></td>
-    <td align="center" style="width: 49%;"><a href="https://github.com/mingi123"><img src="https://avatars.githubusercontent.com/u/28223785?v=4" width="130px;" alt="https://github.com/smilish67"></a></td>
+    <td align="center" style="width: 49%;"><a href="https://github.com/choiwonchanny"><img src="https://avatars.githubusercontent.com/u/188530354?v=4" width="130px;" alt="https://github.com/choiwonchanny"></a></td>
+    <td align="center" style="width: 49%;"><a href="https://github.com/smilish67"><img src="https://avatars.githubusercontent.com/u/28223785?v=4" width="130px;" alt="https://github.com/smilish67"></a></td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/ryalu"><b> 양유진 </b></a></td>
